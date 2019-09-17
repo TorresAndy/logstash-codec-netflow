@@ -1286,3 +1286,33 @@
 57591:
 - :string
 - :nprobe_proto_name
+57652:
+- :string
+- :http_url
+57653:
+- :uint16
+- :http_ret_code
+57654:
+- :string
+- :http_referer
+57655:
+- :string
+- :http_ua
+57656:
+- :string
+- :http_mime
+57659:
+- :string
+- :http_host
+57677:
+- :string
+- :dns_query
+57678:
+- :uint16
+- :dns_query_id
+57679:
+- :uint16
+- :dns_query_type
+57680:
+- :uint16
+- :dns_ret_code
